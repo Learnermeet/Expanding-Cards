@@ -1,6 +1,6 @@
 # Holiday Expanding Cards
 
-A simple, interactive showcase of holiday destinations. Click any card to expand it and get a closer look—the others shrink back and fade to grayscale so your focus stays on the one you picked.
+A simple, interactive showcase of holiday destinations. Click any card to expand it and get a closer look, the others shrink back and fade to grayscale so your focus stays on the one you picked.
 
 ## What's going on here
 
